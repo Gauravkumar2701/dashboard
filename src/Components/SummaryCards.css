@@ -1,0 +1,36 @@
+.summary-cards {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    gap: 2px;
+}
+  
+.card {
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 25px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 30%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 45px;
+}
+
+.card-title {
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.card-ans {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.card-image {
+  display: inline;
+  height: 20px;
+  width: 20px;
+}
+  

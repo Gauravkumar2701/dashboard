@@ -1,0 +1,18 @@
+.request-table {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .request-table table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .request-table th, .request-table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  

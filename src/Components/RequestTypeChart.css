@@ -1,0 +1,24 @@
+.request-type-chart {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 60%;
+}
+
+.request-type-chart .chart {
+  height: 200px;
+  /* Placeholder styling for the chart */
+}
+
+.card-sub-title {
+  color: rgb(212, 211, 211);
+  margin-bottom: 20px;
+}
+
+.card-title {
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+
